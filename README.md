@@ -85,12 +85,9 @@ Sugestões e melhorias são bem-vindas. Para contribuir:
 4. Envie para a branch: `git push origin minha-melhoria`
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 👤 Autor
 
 Feito por **Isaac** como projeto de estudo em Java.
 
-- GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
+- GitHub: [@SEU-USUARIO](https://github.com/isaacos777brh)
